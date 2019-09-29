@@ -1,5 +1,5 @@
 # testcontainers-code-youtube
-The testcontainers JAVA code for youtube video
+The testcontainers JAVA code for youtube video 
 
-
-Todo: add the code ;-) 
+Link to the video: 
+https://www.youtube.com/watch?v=c622ErfZU9M
