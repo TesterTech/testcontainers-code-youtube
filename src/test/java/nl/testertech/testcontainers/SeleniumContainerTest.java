@@ -35,6 +35,9 @@ public class SeleniumContainerTest {
     }
 
     private void VisitAltenWebsite() {
+        WebElement popup = driver.findElementById("L2AGLb");
+        popup.click();
+    
         WebElement element = driver.findElementByName("q");
         element.sendKeys("Alten Nederland");
         element.sendKeys("\n");
